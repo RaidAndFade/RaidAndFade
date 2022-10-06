@@ -1,12 +1,19 @@
 # RaidAndFade
 
-Hello! Welcome to my Profile! I am RaidAndFade, a developer with 10+ years experience. I have a passion for breaking things apart, improving my work on a weekly basis and lastly, gaming (during my free time).   
+Hello! Welcome to my Profile! I am RaidAndFade, a developer with 10+ years experience. I have a passion for breaking things apart 🛠️, continuous improvement 🕐, and gaming 🎮
 
-***Founder of [Xenyth Cloud](https://xenyth.net/). Premium Linux Hosting without premium prices!*** 
+***Founder of [Xenyth Cloud](https://xenyth.net/). Premium Cloud Hosting without premium prices!*** 
 
 *Check us out and get your next project hosted properly.*
 
 ## Skills and Experiences
+
+### LinkedIn
+View my [LinkedIn](https://linkedin.com/in/raidandfade)
+
+### Certifications
+Comptia NET+ and A+ Certified
+
 ### Languages
 <img src='./icons/languages/bash.svg' height=32 title='bash'> <img src='./icons/languages/cplusplus.svg' height=32 title='cplusplus'> <img src='./icons/languages/csharp.svg' height=32 title='csharp'> <img src='./icons/languages/haskell.svg' height=32 title='haskell'> <img src='./icons/languages/haxe.svg' height=32 title='haxe'> <img src='./icons/languages/java.svg' height=32 title='java'> <img src='./icons/languages/php.svg' height=32 title='php'> <img src='./icons/languages/python.svg' height=32 title='python'> <img src='./icons/languages/z-css3.svg' height=32 title='css3'> <img src='./icons/languages/z-html5.svg' height=32 title='html5'> <img src='./icons/languages/z-javascript.svg' height=32 title='javascript'>
 
